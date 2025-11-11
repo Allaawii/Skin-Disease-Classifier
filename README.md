@@ -66,7 +66,7 @@ To train a convolutional neural network (CNN) to accurately classify skin lesion
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/AliSamara1/Skin-Disease-Classifier.git
+git clone https://github.com/Allaawii/Skin-Disease-Classifier.git
 cd Skin-Disease-Classifier
 # Optional: set up a virtual environment with TensorFlow installed
 jupyter notebook Skin_Disease_Classifier.ipynb
